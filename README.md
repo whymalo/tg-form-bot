@@ -15,7 +15,7 @@ Inline-кнопка "✅ Рассмотрено" для админа
 1. Клонируйте репозиторий
 
 ```bash
-git clone https://github.com/yourusername/telegram-form-bot.git
+git clone https://github.com/whymalo/tg-form-bot.git
 ```
 ```bash
 cd telegram-form-bot
